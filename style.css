@@ -1,0 +1,40 @@
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0 10px;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 12px;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: #F1F1F1;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.satu {
+    padding: 10px 20px;
+    background-color: #F1F1F1;
+}
+
+p {
+    column-count: 4;
+    column-rule: 2px solid black;
+    text-align: justify;
+}
